@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/emrosales/flexbox-course#readme",
   "dependencies": {
-    "browser-sync": "^2.26.14",
-    "gulp": "^4.0.2",
-    "gulp-cli": "^2.3.0"
+    "browser-sync": "^3.0.4",
+    "gulp": "^5.0.0",
+    "gulp-cli": "^3.0.0"
   }
 }
